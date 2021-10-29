@@ -641,6 +641,7 @@ a.butn.white:hover, a.butn.white:active {
   color: #b7b7b7;
 }
 
+
 @media screen and (max-width: 991px) {
   .section-heading2 {
     margin-bottom: 30px;
