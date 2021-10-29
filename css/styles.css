@@ -498,6 +498,22 @@ a.butn.white:hover, a.butn.white:active {
 /* ===================================
     Section heading
 ====================================== */
+/* ********* Header *********** */
+#logo{
+  position: absolute;
+  top: 0px;
+}
+
+#nombre{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 27.5%;
+  width: 100%;
+  height: 100%;
+}
+
+
 .section-heading {
   margin-bottom: 50px;
   text-align: center;
@@ -3651,7 +3667,7 @@ footer {
   bottom: 0px;
   left: 0px;
   padding: 50px 0 0;
-  background: #212529;
+  background: #003049;
   color: #939393;
 }
 footer p {
