@@ -502,6 +502,8 @@ a.butn.white:hover, a.butn.white:active {
 #logo{
   position: absolute;
   top: 0px;
+  width: 100%;
+  height: 100%;
 }
 
 #nombre{
@@ -513,6 +515,12 @@ a.butn.white:hover, a.butn.white:active {
   height: 100%;
 }
 
+#cabecera{
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  border: 0;
+}
 
 .section-heading {
   margin-bottom: 50px;
